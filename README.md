@@ -1,1 +1,3 @@
-# ridhisood
+# Ridhi Sood
+
+BTECH undergraduate
